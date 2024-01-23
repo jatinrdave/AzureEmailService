@@ -1,0 +1,14 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using Models.Interfaces;
+
+namespace Models.BLModels
+{
+    public class EmailSection : IEmailSection
+    {
+        public string SendGridAPIKey { get; set ; }
+        public string SenderEmail { get; set; }
+        public string ConnectionString { get; set; }
+    }
+}
