@@ -8,11 +8,11 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
-using Windowmaker.Data.Models.BLModels;
-using Windowmaker.Data.Models.Interfaces;
-using Windowmaker.Data.Services.Interfaces;
+using Models.BLModels;
+using Models.Interfaces;
+using Services.Interfaces;
 
-namespace Windowmaker.Web.Data.Services.BLServices
+namespace Services.BLServices
 {
 
     /// <summary>
