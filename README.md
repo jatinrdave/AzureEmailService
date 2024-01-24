@@ -31,32 +31,34 @@ Robust spam filtering and email validation ensure high deliverability and engage
 Real-time email tracking and analytics provide detailed insights into campaign performance.
 Freemium plan available for limited usage.
 
-Choosing the Right Cloud-Based Email Service:
+# Choosing the Right Cloud-Based Email Service:
 The best cloud-based email service for your .NET application depends on your specific needs and priorities. The comparison below will give you a brief idea based on requirements.
-Different email provider and their feature comparison.Also, consider factors like:
-Email volume and frequency: Choose a service that scales with your needs.
-Required features: Prioritize features like deliverability, analytics, automation, and integrations.
-Budget: Compare pricing models and choose a service that fits your budget.
-Ease of integration: Assess the availability of .NET libraries and documentation.
-Security and compliance: Ensure the service meets your data security and privacy requirements.
+![image](https://github.com/jatinrdave/AzureEmailService/assets/15671321/e261c7b6-10d4-4796-90c7-40dc35e28f03)
+
+# Different email provider and their feature comparison.Also, consider factors like:
+* Email volume and frequency: Choose a service that scales with your needs.
+* Required features: Prioritize features like deliverability, analytics, automation, and integrations.
+* Budget: Compare pricing models and choose a service that fits your budget.
+* Ease of integration: Assess the availability of .NET libraries and documentation.
+* Security and compliance: Ensure the service meets your data security and privacy requirements.
 
 With these considerations in mind, explore the vast landscape of cloud-based email services and discover the perfect solution to liberate your .NET applications from the constraints of on-premises servers. Azure Communication Services fits my requirements based on Azure-specific infrastructure apps.
-Benefits of using ACS Email for .NET Apps:
-Simplified Integration: Leverage pre-built .NET libraries and familiar SMTP commands to quickly add email capabilities to your applications.
-Scalability and Reliability: Benefit from Azure's global infrastructure to handle high-volume email sending without managing your own servers.
-Enhanced Deliverability: Ensure emails reach intended recipients with high inbox placement rates and advanced spam filtering.
-Pay-per-use Pricing: Only pay for the emails you send, making ACS cost-effective for both low and high-volume use cases.
-Multi-channel Communication: Combine email with other ACS communication channels like SMS and chat to create engaging user experiences.
+# Benefits of using ACS Email for .NET Apps:
+* Simplified Integration: Leverage pre-built .NET libraries and familiar SMTP commands to quickly add email capabilities to your applications.
+* Scalability and Reliability: Benefit from Azure's global infrastructure to handle high-volume email sending without managing your own servers.
+* Enhanced Deliverability: Ensure emails reach intended recipients with high inbox placement rates and advanced spam filtering.
+* Pay-per-use Pricing: Only pay for the emails you send, making ACS cost-effective for both low and high-volume use cases.
+* Multi-channel Communication: Combine email with other ACS communication channels like SMS and chat to create engaging user experiences.
 
-General or relevant requirements that offer (B2C):
-Omnichannel support: Offer various communication channels like chat, voice calls, and video calls for customer inquiries.
-Remote Services Support: Provide instant support to customers through live chat or video consultations for remote attendant services at Point of Sale.
-Automated notifications: Send personalized updates on order status, delivery alerts, or appointment reminders.
-Product demonstrations: Showcase products or services through live video calls with potential customers.
-Personalized shopping experiences: Offer virtual consultations and recommendations through chat or video.
-Post-purchase: Send order confirmations, shipping updates, and loyalty program information via email and SMS.
-Account updates and alerts: Send notifications about account activity, transactions, and important updates via email and SMS.
-Real-time shipment tracking: Update customers on delivery ETA and location changes through SMS notifications.
-Logistic communication: Communicate instructions and updates to the shipment provider in real time using voice calls and text messages.
-Automated delivery notifications: Send SMS alerts when a package arrives or requires an authentication/signature upon delivery.
-Remote installation guidance: Provide video tutorials or live video calls with technicians to guide customers through the installation process, reducing potential errors and improving DIY adoption
+# General or relevant requirements that offer (B2C):
+* Omnichannel support: Offer various communication channels like chat, voice calls, and video calls for customer inquiries.
+* Remote Services Support: Provide instant support to customers through live chat or video consultations for remote attendant services at Point of Sale.
+* Automated notifications: Send personalized updates on order status, delivery alerts, or appointment reminders.
+* Product demonstrations: Showcase products or services through live video calls with potential customers.
+* Personalized shopping experiences: Offer virtual consultations and recommendations through chat or video.
+* Post-purchase: Send order confirmations, shipping updates, and loyalty program information via email and SMS.
+* Account updates and alerts: Send notifications about account activity, transactions, and important updates via email and SMS.
+* Real-time shipment tracking: Update customers on delivery ETA and location changes through SMS notifications.
+* Logistic communication: Communicate instructions and updates to the shipment provider in real time using voice calls and text messages.
+* Automated delivery notifications: Send SMS alerts when a package arrives or requires an authentication/signature upon delivery.
+* Remote installation guidance: Provide video tutorials or live video calls with technicians to guide customers through the installation process, reducing potential errors and improving DIY adoption
